@@ -1,0 +1,1 @@
+db.getCollection('people').findOne({"sex":"Male", "nationality":"Germany"});

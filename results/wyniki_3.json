@@ -1,0 +1,37 @@
+MongoDB shell version v3.4.10
+connecting to: mongodb://localhost/nbd
+MongoDB server version: 3.4.10
+{
+	"_id" : ObjectId("5a0f1d2b77c3cb85df9f7789"),
+	"sex" : "Male",
+	"first_name" : "Benjamin",
+	"last_name" : "Romero",
+	"job" : "Help Desk Technician",
+	"email" : "bromerogq@ameblo.jp",
+	"location" : {
+		"city" : "Mülheim an der Ruhr",
+		"address" : {
+			"streetname" : "Milwaukee",
+			"streetnumber" : "24607"
+		}
+	},
+	"description" : "nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus",
+	"height" : "170.72",
+	"weight" : "65.54",
+	"birth_date" : "2010-10-11T19:45:58Z",
+	"nationality" : "Germany",
+	"credit" : [
+		{
+			"type" : "maestro",
+			"number" : "3530193969356720",
+			"currency" : "PYG",
+			"balance" : "2825.74"
+		},
+		{
+			"type" : "solo",
+			"number" : "3532231866333851",
+			"currency" : "XCD",
+			"balance" : "6465.87"
+		}
+	]
+}
