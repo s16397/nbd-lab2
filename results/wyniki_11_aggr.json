@@ -1,0 +1,13 @@
+MongoDB shell version v3.4.10
+connecting to: mongodb://127.0.0.1:27017/nbd
+MongoDB server version: 3.4.10
+{
+	"_id" : "Female",
+	"avgWeight" : 70.11331573604062,
+	"avgHeight" : 166.81260913705583
+}
+{
+	"_id" : "Male",
+	"avgWeight" : 70.00911972541894,
+	"avgHeight" : 166.73179689077327
+}
